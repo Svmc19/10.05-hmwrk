@@ -1,7 +1,7 @@
 # Task1
 # def find_odd(nums):
 #     for x in nums:
-#         if nums.count(x) == x % 2 !=0:
+#         if nums.count(x) % 2 !=0:
 #             return x
 #
 # print(find_odd([1,1,2,-2,5,2,4,4,-1,-2,5]))
